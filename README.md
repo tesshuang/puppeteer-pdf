@@ -1,4 +1,4 @@
-# Use Puppeteer to Generates PDFs
+# Use Puppeteer to generates PDFs
 
 Utilize headless browser - Puppeteer to turn web pages into PDFs.
 
