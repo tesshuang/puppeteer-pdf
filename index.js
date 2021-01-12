@@ -24,7 +24,7 @@ app.get("/pdf", async (req, res) => {
   
   const pdf = await webPage.pdf({
     printBackground: true,
-    path: "webpage.pdf",
+    path: 'output/webpage.pdf',
     format: "Letter",
     margin: {
       top: "20px",
@@ -39,7 +39,7 @@ app.get("/pdf", async (req, res) => {
   res.contentType("application/pdf");
   res.send(pdf);
 
-})
+});
 
 app.listen(3000, () => {
   console.log("Server started.");
