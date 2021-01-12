@@ -46,5 +46,5 @@ Add additional notes about how to deploy this on a live system
 
 Learn more about Puppeteer and NodeJS from [this post](https://thenextweb.com/syndication/2021/01/10/how-to-turn-web-pages-into-pdfs-with-puppeteer-and-nodejs/?ref=webdesignernews.com).
 
-
+Learn more about the [puppeteer api](https://github.com/puppeteer/puppeteer/blob/v5.5.0/docs/api.md#pagepdfoptions)
 
